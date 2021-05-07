@@ -1,0 +1,6 @@
+C:\Users\KeenMeister\Desktop\Basic_C#_Programs\ConsoleMessage\ConsoleMessage\bin\Debug\ConsoleMessage.exe.config
+C:\Users\KeenMeister\Desktop\Basic_C#_Programs\ConsoleMessage\ConsoleMessage\bin\Debug\ConsoleMessage.exe
+C:\Users\KeenMeister\Desktop\Basic_C#_Programs\ConsoleMessage\ConsoleMessage\bin\Debug\ConsoleMessage.pdb
+C:\Users\KeenMeister\Desktop\Basic_C#_Programs\ConsoleMessage\ConsoleMessage\obj\Debug\ConsoleMessage.csproj.CoreCompileInputs.cache
+C:\Users\KeenMeister\Desktop\Basic_C#_Programs\ConsoleMessage\ConsoleMessage\obj\Debug\ConsoleMessage.exe
+C:\Users\KeenMeister\Desktop\Basic_C#_Programs\ConsoleMessage\ConsoleMessage\obj\Debug\ConsoleMessage.pdb
