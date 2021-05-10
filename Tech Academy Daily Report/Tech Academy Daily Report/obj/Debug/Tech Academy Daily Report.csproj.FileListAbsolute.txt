@@ -1,0 +1,7 @@
+C:\Users\KeenMeister\Documents\GitHub\Basic-CSharp-TechAcademy\Tech Academy Daily Report\Tech Academy Daily Report\bin\Debug\Tech Academy Daily Report.exe.config
+C:\Users\KeenMeister\Documents\GitHub\Basic-CSharp-TechAcademy\Tech Academy Daily Report\Tech Academy Daily Report\bin\Debug\Tech Academy Daily Report.exe
+C:\Users\KeenMeister\Documents\GitHub\Basic-CSharp-TechAcademy\Tech Academy Daily Report\Tech Academy Daily Report\bin\Debug\Tech Academy Daily Report.pdb
+C:\Users\KeenMeister\Documents\GitHub\Basic-CSharp-TechAcademy\Tech Academy Daily Report\Tech Academy Daily Report\obj\Debug\Tech Academy Daily Report.csprojAssemblyReference.cache
+C:\Users\KeenMeister\Documents\GitHub\Basic-CSharp-TechAcademy\Tech Academy Daily Report\Tech Academy Daily Report\obj\Debug\Tech Academy Daily Report.csproj.CoreCompileInputs.cache
+C:\Users\KeenMeister\Documents\GitHub\Basic-CSharp-TechAcademy\Tech Academy Daily Report\Tech Academy Daily Report\obj\Debug\Tech Academy Daily Report.exe
+C:\Users\KeenMeister\Documents\GitHub\Basic-CSharp-TechAcademy\Tech Academy Daily Report\Tech Academy Daily Report\obj\Debug\Tech Academy Daily Report.pdb
