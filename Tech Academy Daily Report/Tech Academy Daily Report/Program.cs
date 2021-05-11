@@ -23,9 +23,14 @@ namespace Tech_Academy_Daily_Report
             Console.WriteLine("What course are you on?");
             string currentCourse = Console.ReadLine();
 
+            // Where the user's input is not supposed to be a string, we'll convert it to
+            // the appropriate data type.
             Console.WriteLine("What page number?");
-            string StrPageNum = Console.ReadLine();
-            int PageNum = Convert.ToInt32(StrPageNum);
+            string strPageNum = Console.ReadLine();
+            int PageNum = Convert.ToInt32(strPageNum);
+            // If we were doing things properly, every one of these conversions would get a
+            // try/catch block and would throw an error back to the user that tells the user
+            // what to do.
 
             Console.WriteLine("Do you need help with anything? Please answer \"True\" or \"False.\"");
             string strNeedHelp = Console.ReadLine();
