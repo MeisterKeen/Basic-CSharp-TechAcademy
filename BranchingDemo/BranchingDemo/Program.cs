@@ -59,6 +59,8 @@ namespace BranchingDemo
                 Console.WriteLine("If you see this line, something is wrong");
             }
 
+            // OK nice, now I get it.
+
 
             // Fun thought: how many unneccesary while loops could be replaced with
             // "if/else" branches? Are those less expensive than loops? Seems like
