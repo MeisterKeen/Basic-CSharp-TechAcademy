@@ -92,8 +92,26 @@ namespace Tomfoolery
             //Console.WriteLine(inputNumber5 + " divided by 7, remainder is: " + result5);
             //Console.ReadLine();
 
-            Console.WriteLine(true != false);
+            //Console.WriteLine(true != false);
+            //Console.ReadLine();
+
+            string name = "Jesse";
+            string quote = "The man said, \"Hello, Jesse.\"\nHello on a new line!\n\tHello on a tab!";
+            string filename = "C:\\Users\\KeenMeister\\Documents";
+                // Use an @ to escape everything within quotes!
+            
+
+
+            Console.WriteLine(quote);
             Console.ReadLine();
+
+            // string functions:
+
+            string lowerName = name.ToLower();
+            int strLen = name.Length;
+
+            Console.WriteLine();
+
         }
     }
 }
