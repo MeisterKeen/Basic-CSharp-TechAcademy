@@ -1,0 +1,7 @@
+C:\Users\KeenMeister\Documents\GitHub\Basic-CSharp-TechAcademy\MathClass\MathClass\bin\Debug\MathClass.exe.config
+C:\Users\KeenMeister\Documents\GitHub\Basic-CSharp-TechAcademy\MathClass\MathClass\bin\Debug\MathClass.exe
+C:\Users\KeenMeister\Documents\GitHub\Basic-CSharp-TechAcademy\MathClass\MathClass\bin\Debug\MathClass.pdb
+C:\Users\KeenMeister\Documents\GitHub\Basic-CSharp-TechAcademy\MathClass\MathClass\obj\Debug\MathClass.csprojAssemblyReference.cache
+C:\Users\KeenMeister\Documents\GitHub\Basic-CSharp-TechAcademy\MathClass\MathClass\obj\Debug\MathClass.csproj.CoreCompileInputs.cache
+C:\Users\KeenMeister\Documents\GitHub\Basic-CSharp-TechAcademy\MathClass\MathClass\obj\Debug\MathClass.exe
+C:\Users\KeenMeister\Documents\GitHub\Basic-CSharp-TechAcademy\MathClass\MathClass\obj\Debug\MathClass.pdb
