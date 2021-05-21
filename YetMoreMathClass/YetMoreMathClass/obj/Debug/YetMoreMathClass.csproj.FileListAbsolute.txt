@@ -1,0 +1,6 @@
+C:\Users\KeenMeister\Documents\GitHub\Basic-CSharp-TechAcademy\YetMoreMathClass\YetMoreMathClass\bin\Debug\YetMoreMathClass.exe.config
+C:\Users\KeenMeister\Documents\GitHub\Basic-CSharp-TechAcademy\YetMoreMathClass\YetMoreMathClass\bin\Debug\YetMoreMathClass.exe
+C:\Users\KeenMeister\Documents\GitHub\Basic-CSharp-TechAcademy\YetMoreMathClass\YetMoreMathClass\bin\Debug\YetMoreMathClass.pdb
+C:\Users\KeenMeister\Documents\GitHub\Basic-CSharp-TechAcademy\YetMoreMathClass\YetMoreMathClass\obj\Debug\YetMoreMathClass.csproj.CoreCompileInputs.cache
+C:\Users\KeenMeister\Documents\GitHub\Basic-CSharp-TechAcademy\YetMoreMathClass\YetMoreMathClass\obj\Debug\YetMoreMathClass.exe
+C:\Users\KeenMeister\Documents\GitHub\Basic-CSharp-TechAcademy\YetMoreMathClass\YetMoreMathClass\obj\Debug\YetMoreMathClass.pdb
