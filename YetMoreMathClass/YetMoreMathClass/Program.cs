@@ -14,7 +14,7 @@ namespace YetMoreMathClass
             Class1 class1 = new Class1();
 
             // Call the method, passing in two arguments:
-            class1.TwoInt(5, 7);
+            class1.TwoInt(num1: 5, num2: 7);
 
             // and that's it.
             Console.ReadLine();
