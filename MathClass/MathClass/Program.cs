@@ -30,6 +30,10 @@ namespace MathClass
 
             Console.ReadLine();
 
+
+
+
+
         }
     }
 }

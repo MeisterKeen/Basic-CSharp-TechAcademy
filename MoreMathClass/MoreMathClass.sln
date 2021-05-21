@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31205.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MoreMathClass", "MoreMathClass\MoreMathClass.csproj", "{45AB0189-B4B9-4F84-9A26-E80F87D4FCA2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{45AB0189-B4B9-4F84-9A26-E80F87D4FCA2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{45AB0189-B4B9-4F84-9A26-E80F87D4FCA2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{45AB0189-B4B9-4F84-9A26-E80F87D4FCA2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{45AB0189-B4B9-4F84-9A26-E80F87D4FCA2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BB574509-1F56-4521-BC44-AB6B7AC6E2C4}
+	EndGlobalSection
+EndGlobal
