@@ -35,7 +35,10 @@ namespace ClassMethodDemo
             Class1.Method2(Console.ReadLine());
             // overloading is weird.
 
+            Class2.Method3();
+
             Console.ReadLine();
+
 
 
 

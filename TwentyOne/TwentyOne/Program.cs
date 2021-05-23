@@ -11,6 +11,10 @@ namespace TwentyOne
         static void Main(string[] args)
         {
 
+            Game game = new Game();
+            game.Dealer = "Keen";
+            game.Name = "TwentyOne";
+
             Deck deck = new Deck(); // instantiating deck object (should have 52 cards in it, per 'Deck' class)
             deck.Shuffle(3);
 
@@ -21,8 +25,9 @@ namespace TwentyOne
             Console.WriteLine(deck.Cards.Count);
             Console.ReadLine();
 
-
         }
+        // Easy way to instantiate an object:
+        //Card card = new Card() { Face = "King", Suit = "Spades" };
 
         //// CREATING A PUBLIC METHOD:
         //// public: accessible anytime from any other program in this namespace
