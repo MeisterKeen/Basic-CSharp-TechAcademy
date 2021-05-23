@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace TwentyOne
 {
-    class Card
+    public class Card
     {
         public Card() // constructor method is named the same as the class in C#
         {

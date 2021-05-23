@@ -1,0 +1,6 @@
+C:\Users\KeenMeister\Documents\GitHub\Basic-CSharp-TechAcademy\AbstractClassDemo\AbstractClassDemo\bin\Debug\AbstractClassDemo.exe.config
+C:\Users\KeenMeister\Documents\GitHub\Basic-CSharp-TechAcademy\AbstractClassDemo\AbstractClassDemo\bin\Debug\AbstractClassDemo.exe
+C:\Users\KeenMeister\Documents\GitHub\Basic-CSharp-TechAcademy\AbstractClassDemo\AbstractClassDemo\bin\Debug\AbstractClassDemo.pdb
+C:\Users\KeenMeister\Documents\GitHub\Basic-CSharp-TechAcademy\AbstractClassDemo\AbstractClassDemo\obj\Debug\AbstractClassDemo.csproj.CoreCompileInputs.cache
+C:\Users\KeenMeister\Documents\GitHub\Basic-CSharp-TechAcademy\AbstractClassDemo\AbstractClassDemo\obj\Debug\AbstractClassDemo.exe
+C:\Users\KeenMeister\Documents\GitHub\Basic-CSharp-TechAcademy\AbstractClassDemo\AbstractClassDemo\obj\Debug\AbstractClassDemo.pdb

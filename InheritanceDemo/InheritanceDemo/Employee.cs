@@ -8,6 +8,8 @@ namespace InheritanceDemo
 {
     public class Employee : Person
     {
-        int ID;
+        public int ID;
+
+        // poor orphaned property never got used by anybody!
     }
 }

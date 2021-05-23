@@ -10,7 +10,10 @@ namespace InheritanceDemo
     {
         public string FirstName;
         public string LastName;
+
         // At this point I'm just making everything public, because I keep getting access level errors
+        // I am sure that there is no scenario in which making everything public to everything else
+        // could ever backfire.
 
         public void SayName()
         {

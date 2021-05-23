@@ -10,11 +10,9 @@ namespace TwentyOne
     {
         static void Main(string[] args)
         {
-
             TwentyOneGame game = new TwentyOneGame();
-            game.Players = new List<string>() { "Jesse", "Bill", "Joe" };
+            game.Players = new List<string>() { "Jesse", "Bill", "Bob" };
             game.ListPlayers();
-            game.Play();
             Console.ReadLine();
 
             Deck deck = new Deck();      // instantiating deck object (should have 52 cards in it, per 'Deck' class)
