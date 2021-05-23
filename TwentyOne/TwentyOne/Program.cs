@@ -11,12 +11,14 @@ namespace TwentyOne
         static void Main(string[] args)
         {
 
-            Game game = new Game();
-            game.Dealer = "Keen";
-            game.Name = "TwentyOne";
+            TwentyOneGame game = new TwentyOneGame();
+            game.Players = new List<string>() { "Jesse", "Bill", "Joe" };
+            game.ListPlayers();
+            game.Play();
+            Console.ReadLine();
 
-            Deck deck = new Deck(); // instantiating deck object (should have 52 cards in it, per 'Deck' class)
-            deck.Shuffle(3);
+            Deck deck = new Deck();      // instantiating deck object (should have 52 cards in it, per 'Deck' class)
+            deck.Shuffle(3);             // shuffle 3 times, using the shuffle() method in the deck object.
 
             foreach (Card card in deck.Cards)
             {
