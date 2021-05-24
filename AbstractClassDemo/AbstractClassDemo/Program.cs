@@ -17,7 +17,20 @@ namespace AbstractClassDemo
             employee.SayName();
             Console.ReadLine();
 
-            // At this rate I'm going to have so many commits on GitHub, someone will mistake me for a programmer.
+            // No, this doesn't work:
+            //IQuittable quitter = new IQuittable();
+
+            // I can't instantiate an Interface.
+            // HOWEVER, I have implemented IQuittable through the Employee class above.
+            // Thus the following should work:
+            
+            employee.Quit();
+
+            // and the program will not execute the following ReadLine():
+            Console.ReadLine();
+
+            // Is that what's being asked for?
+            // am I missing the point somehow?
 
         }
     }
