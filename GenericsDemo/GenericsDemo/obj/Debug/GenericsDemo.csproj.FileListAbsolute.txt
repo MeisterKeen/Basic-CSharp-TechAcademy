@@ -1,0 +1,7 @@
+C:\Users\KeenMeister\Documents\GitHub\Basic-CSharp-TechAcademy\GenericsDemo\GenericsDemo\obj\Debug\GenericsDemo.csprojAssemblyReference.cache
+C:\Users\KeenMeister\Documents\GitHub\Basic-CSharp-TechAcademy\GenericsDemo\GenericsDemo\obj\Debug\GenericsDemo.csproj.CoreCompileInputs.cache
+C:\Users\KeenMeister\Documents\GitHub\Basic-CSharp-TechAcademy\GenericsDemo\GenericsDemo\bin\Debug\GenericsDemo.exe.config
+C:\Users\KeenMeister\Documents\GitHub\Basic-CSharp-TechAcademy\GenericsDemo\GenericsDemo\bin\Debug\GenericsDemo.exe
+C:\Users\KeenMeister\Documents\GitHub\Basic-CSharp-TechAcademy\GenericsDemo\GenericsDemo\bin\Debug\GenericsDemo.pdb
+C:\Users\KeenMeister\Documents\GitHub\Basic-CSharp-TechAcademy\GenericsDemo\GenericsDemo\obj\Debug\GenericsDemo.exe
+C:\Users\KeenMeister\Documents\GitHub\Basic-CSharp-TechAcademy\GenericsDemo\GenericsDemo\obj\Debug\GenericsDemo.pdb
