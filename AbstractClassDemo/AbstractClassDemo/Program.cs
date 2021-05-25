@@ -29,6 +29,8 @@ namespace AbstractClassDemo
             // And THAT is Polymorphism?
             // ...interesting.
 
+            // I think I get it. We're using the Employee() constructor to make an IQuittable object.
+
         }
     }
 }

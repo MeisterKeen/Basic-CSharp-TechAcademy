@@ -13,26 +13,16 @@ namespace TwentyOne
 
             Cards = new List<Card>(); // instantiate an empty list of "Cards"
 
-            List<string> Suits = new List<string>() 
+            for (int i = 0; i < 13; i++)
             {
-                "Clubs", "Hearts", "Diamonds", "Spades" 
-            };
-
-            List<string> Faces = new List<string>()
-            {
-                "Two", "Three", "Four", "Five", "Six", "Seven", "Eight", "Nine", "Ten", "Jack", "Queen", "King", "Ace"
-            };
-
-            //foreach (string face in Faces)
-            //{
-            //    foreach (string suit in Suits)
-            //    {
-            //        Card card = new Card();
-            //        card.Suit = suit;
-            //        card.Face = face;
-            //        Cards.Add(card);
-            //    }
-            //}
+                for (int ii = 0; ii < 4; ii++)
+                {
+                    Card card = new Card();
+                    card.Face = (Face)i;
+                    card.Suit = (Suit)ii;
+                    Cards.Add(card);
+                }
+            }
 
         }
         public List<Card> Cards { get; set; }
