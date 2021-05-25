@@ -43,6 +43,7 @@ namespace GenericsDemo
 
             MGarcia.listThings();
             Console.ReadLine();
+
         }
     }
 }

@@ -8,13 +8,16 @@ namespace TwentyOne
 {
     public class Card
     {
-        public Card() // constructor method is named the same as the class in C#
-        {
-            Suit = "Spades";
-            Face = "Two";
-        }
-        public string Suit { get; set; }
+
+        public Suit Suit { get; set; }
         public string Face { get; set; }
 
+    }
+    public enum Suit
+    {
+        Clubs,
+        Diamonds,
+        Hearts,
+        Spades
     }
 }

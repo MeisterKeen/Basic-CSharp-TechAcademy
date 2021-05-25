@@ -11,7 +11,9 @@ namespace TwentyOne
         static void Main(string[] args)
         {
 
-
+            Card card = new Card();
+            card.Suit = Suit.Clubs;
+            int underlyingValue = (int)Suit.Diamonds;
 
             Deck deck = new Deck();                 // instantiating deck object (should have 52 cards in it, per 'Deck' class)
             deck.Shuffle(3);                        // shuffle 3 times, using the shuffle() method in the deck object.

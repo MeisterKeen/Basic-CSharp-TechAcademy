@@ -23,16 +23,16 @@ namespace TwentyOne
                 "Two", "Three", "Four", "Five", "Six", "Seven", "Eight", "Nine", "Ten", "Jack", "Queen", "King", "Ace"
             };
 
-            foreach (string face in Faces)
-            {
-                foreach (string suit in Suits)
-                {
-                    Card card = new Card();
-                    card.Suit = suit;
-                    card.Face = face;
-                    Cards.Add(card);
-                }
-            }
+            //foreach (string face in Faces)
+            //{
+            //    foreach (string suit in Suits)
+            //    {
+            //        Card card = new Card();
+            //        card.Suit = suit;
+            //        card.Face = face;
+            //        Cards.Add(card);
+            //    }
+            //}
 
         }
         public List<Card> Cards { get; set; }
