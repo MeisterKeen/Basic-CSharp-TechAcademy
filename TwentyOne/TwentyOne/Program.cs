@@ -12,14 +12,27 @@ namespace TwentyOne
         {
 
             Deck deck = new Deck();                 // instantiating deck object (should have 52 cards in it, per 'Deck' class)
-            deck.Shuffle(3);                        // shuffle 3 times, using the shuffle() method in the deck object.
 
-            foreach (Card card in deck.Cards)
+            // lambda function:
+            //int count = deck.Cards.Count(x => x.Face == Face.Ace);
+
+            List<Card> newList = deck.Cards.Where(x => x.Face == Face.King).ToList();
+            
+            foreach (Card card in newList)
             {
-                Console.WriteLine(card.Face + " of " + card.Suit);
+                Console.WriteLine(card.Face);
             }
-            Console.WriteLine(deck.Cards.Count);
+
             Console.ReadLine();
+
+            //deck.Shuffle(3);                        // shuffle 3 times, using the shuffle() method in the deck object.
+
+            //foreach (Card card in deck.Cards)
+            //{
+            //    Console.WriteLine(card.Face + " of " + card.Suit);
+            //}
+            //Console.WriteLine(deck.Cards.Count);
+            //Console.ReadLine();
 
         }
         // Easy way to instantiate an object:

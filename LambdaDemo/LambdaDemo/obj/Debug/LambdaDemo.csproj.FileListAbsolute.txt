@@ -1,0 +1,7 @@
+C:\Users\KeenMeister\Documents\GitHub\Basic-CSharp-TechAcademy\LambdaDemo\LambdaDemo\obj\Debug\LambdaDemo.csproj.CoreCompileInputs.cache
+C:\Users\KeenMeister\Documents\GitHub\Basic-CSharp-TechAcademy\LambdaDemo\LambdaDemo\bin\Debug\LambdaDemo.exe.config
+C:\Users\KeenMeister\Documents\GitHub\Basic-CSharp-TechAcademy\LambdaDemo\LambdaDemo\bin\Debug\LambdaDemo.exe
+C:\Users\KeenMeister\Documents\GitHub\Basic-CSharp-TechAcademy\LambdaDemo\LambdaDemo\bin\Debug\LambdaDemo.pdb
+C:\Users\KeenMeister\Documents\GitHub\Basic-CSharp-TechAcademy\LambdaDemo\LambdaDemo\obj\Debug\LambdaDemo.csprojAssemblyReference.cache
+C:\Users\KeenMeister\Documents\GitHub\Basic-CSharp-TechAcademy\LambdaDemo\LambdaDemo\obj\Debug\LambdaDemo.exe
+C:\Users\KeenMeister\Documents\GitHub\Basic-CSharp-TechAcademy\LambdaDemo\LambdaDemo\obj\Debug\LambdaDemo.pdb
