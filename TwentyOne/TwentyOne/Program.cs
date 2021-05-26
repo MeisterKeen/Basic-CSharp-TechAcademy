@@ -10,29 +10,32 @@ namespace TwentyOne
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Welcome to the Grand Hotel and Casino.\nLet's start by telling me your name:");
+            string playerName = Console.ReadLine();
 
-            Deck deck = new Deck();                 // instantiating deck object (should have 52 cards in it, per 'Deck' class)
+            Console.WriteLine("And how much money did you bring today?");
+            int bank = Convert.ToInt32(Console.ReadLine());
 
-            // lambda function:
-            //int count = deck.Cards.Count(x => x.Face == Face.Ace);
+            Console.WriteLine("Hello, {0}. Would you like to join a game of 21 right now?", playerName);
+            string answer = Console.ReadLine().ToLower();
 
-            List<Card> newList = deck.Cards.Where(x => x.Face == Face.King).ToList();
-            
-            foreach (Card card in newList)
+            if (answer == "yes" || answer == "yeah" || answer == "y" || answer == "ya")
             {
-                Console.WriteLine(card.Face);
+                Player player = new Player(playerName, bank);
+                Game game = new TwentyOneGame();
+                game += player;
+                player.isActivelyPlaying = true;
+
+                while (player.isActivelyPlaying && player.Balance > 0)
+                {
+                    game.Play();
+                }
+                game -= player;
+                Console.WriteLine("Thank you for playing!");
             }
 
-            Console.ReadLine();
-
-            //deck.Shuffle(3);                        // shuffle 3 times, using the shuffle() method in the deck object.
-
-            //foreach (Card card in deck.Cards)
-            //{
-            //    Console.WriteLine(card.Face + " of " + card.Suit);
-            //}
-            //Console.WriteLine(deck.Cards.Count);
-            //Console.ReadLine();
+            Console.WriteLine("Feel free to look around the casino. Bye for now.");
+            Console.Read();
 
         }
         // Easy way to instantiate an object:
@@ -76,6 +79,5 @@ namespace TwentyOne
         //    }
         //    return deck;
         //}
-
     }
 }

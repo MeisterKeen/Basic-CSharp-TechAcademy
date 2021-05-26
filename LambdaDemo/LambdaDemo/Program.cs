@@ -14,59 +14,55 @@ namespace LambdaDemo
             // We need a list of 10 employees. So we have an Employee class.
             // So let's just build out ten of those objects:
 
-            Employee jDobbs = new Employee();
-            jDobbs.firstName = "Joe";
-            jDobbs.lastName = "Dobbs";
-            jDobbs.Id = 1001;
+            Employee jDobbs = new Employee()
+            {
+                firstName = "Joe", lastName = "Dobbs", Id = 1001
+            };
 
-            Employee sGarett = new Employee();
-            sGarett.firstName = "Sue";
-            sGarett.lastName = "Garett";
-            sGarett.Id = 1002;
+            Employee sGarett = new Employee()
+            {
+                firstName = "Sue", lastName = "Garett", Id = 1002
+            };
 
-            Employee hSimpson = new Employee();
-            hSimpson.firstName = "Homer";
-            hSimpson.lastName = "Simpson";
-            hSimpson.Id = 1003;
+            Employee hSimpson = new Employee()
+            {
+                firstName = "Homer", lastName = "Simpson", Id = 1003
+            };
 
-            Employee cDavis = new Employee();
-            cDavis.firstName = "Chip";
-            cDavis.lastName = "Davis";
-            cDavis.Id = 1004;
+            Employee cDavis = new Employee()
+            {
+                firstName = "Chip", lastName = "Davis", Id = 1004
+            };
 
-            Employee aHoxha = new Employee();
-            aHoxha.firstName = "Adil";
-            aHoxha.lastName = "Hoxha";
-            aHoxha.Id = 1005;
+            Employee aHoxha = new Employee()
+            {
+                firstName = "Adil", lastName = "Hoxha", Id = 1005
+            };
 
-            Employee lLeonard = new Employee();
-            lLeonard.firstName = "Lenny";
-            lLeonard.lastName = "Leonard";
-            lLeonard.Id = 1006;
+            Employee lLeonard = new Employee()
+            {
+                firstName = "Lenny", lastName = "Leonard", Id = 1006
+            };
 
-            Employee wSmithers = new Employee();
-            wSmithers.firstName = "Waylon";
-            wSmithers.lastName = "Smithers";
-            wSmithers.Id = 1007;
+            Employee wSmithers = new Employee()
+            {
+                firstName = "Waylon", lastName = "Smithers", Id = 1007
+            };
 
-            Employee cCarlson = new Employee();
-            cCarlson.firstName = "Carl";
-            cCarlson.lastName = "Carlson";
-            cCarlson.Id = 1008;
+            Employee cCarlson = new Employee()
+            {
+                firstName = "Carl", lastName = "Carlson", Id = 1008
+            };
 
-            Employee rMarlow = new Employee();
-            rMarlow.firstName = "Robert";
-            rMarlow.lastName = "Marlow";
-            rMarlow.Id = 1009;
+            Employee rMarlow = new Employee()
+            {
+                firstName = "Robert", lastName = "Marlow", Id = 1009
+            };
 
-            Employee jBlow = new Employee();
-            jBlow.firstName = "Joe";
-            jBlow.lastName = "Blow";
-            jBlow.Id = 1010;
-
-            // Yeah, I totally did this the long way 'round.
-            // I tried to write a constructor that would make this all easier, but it gave me trouble
-            // and the Microsoft documentation is obtuse.
+            Employee jBlow = new Employee()
+            {
+                firstName = "Joe", lastName = "Blow", Id = 1010
+            };
 
             List<Employee> employeeList = new List<Employee>()
             {
@@ -74,9 +70,11 @@ namespace LambdaDemo
             };
             // Behold, a list of Employees!
 
+
+
             // Now let's make a new list to catch the Joes:
             List<Employee> Joes = new List<Employee>();
-
+            // And a loop that grabs the Joes:
             foreach (Employee employee in employeeList)
             {
                 if (employee.firstName == "Joe")
@@ -89,17 +87,26 @@ namespace LambdaDemo
             Console.ReadLine();
 
 
+
+
+
             // Okay, cool, that foreach loop worked. So Now let's lambdafy it.
 
             List<Employee> AlsoJoes = new List<Employee>();
 
 
 
-            AlsoJoes.Add(employeeList[x => x.firstName == "Joe"]);
+            //AlsoJoes.Add(employeeList[x => x.firstName == "Joe"]);
+
+            //AlsoJoes.Add(x => employeeList[x] => x.firstName == "Joe");
+
+            AlsoJoes.Where(x => employeeList[x].firstName == "Joe") //
+
             // Okay, so I want to add an item from employeeList...
-                    // I want to grab the index item from employeeList IF the item's firstName value is "Joe"
-                            // I think the lambda expression I wrote resolves to a boolean, not an int...
-                                    // How the hell do I get the integer I want?
+                // I want to grab the indexed item from employeeList IF the item's firstName value is "Joe"
+                    // I think the lambda expression I wrote resolves to a boolean, not an int...
+                        // How the hell do I get the integer I want?
+                             // Where or how or in what way do I create the equivalent of an "if" statement here?
             
             
             // ...and now I am very, very lost.
@@ -116,7 +123,7 @@ namespace LambdaDemo
 
             // Doesn't anyone actually DEFINE THE DAMN TERMS somewhere?!?!?!
 
-            // Is it just me, or do others hang up on this? I HATED this topic back in JavaScript, I just
+            // Is it just me, or do others hang up on this, too? I HATED this topic back in JavaScript, I just
             // copy-pasted them in when I had to and otherwise worked around them.
 
         }
