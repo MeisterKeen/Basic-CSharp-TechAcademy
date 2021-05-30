@@ -13,14 +13,22 @@ namespace TwentyOne
         {
             const string casinoName = "Grand hotel and Casino";
 
- 
-
-
             Console.WriteLine("Welcome to the {0}\nLet's start by telling me your name:", casinoName);
             string playerName = Console.ReadLine();
 
-            Console.WriteLine("And how much money did you bring today?");
-            int bank = Convert.ToInt32(Console.ReadLine());
+            bool validAnswer = false;
+            int bank = 0;
+            while (!validAnswer)
+            {
+                Console.WriteLine("And how much money did you bring today?");
+                validAnswer = int.TryParse(Console.ReadLine(), out bank);
+                if (!validAnswer) Console.WriteLine("Please enter digits only, no letters or decimals.");
+            }
+            
+            //Console.WriteLine("And how much money did you bring today?");
+            //int bank = Convert.ToInt32(Console.ReadLine());
+
+
 
             Console.WriteLine("Hello, {0}. Would you like to join a game of 21 right now?", playerName);
             string answer = Console.ReadLine().ToLower();
@@ -39,7 +47,22 @@ namespace TwentyOne
 
                 while (player.isActivelyPlaying && player.Balance > 0)
                 {
-                    game.Play();
+                    try
+                    {
+                        game.Play();
+                    }
+                    catch (FraudException)
+                    {
+                        Console.WriteLine("Security! Kick this person out.");
+                        Console.ReadLine();
+                        return;
+                    }
+                    catch (Exception)
+                    {
+                        Console.WriteLine("An error occurred. Please contact your system administrator.");
+                        Console.ReadLine();
+                        return;
+                    }
                 }
                 game -= player;
                 Console.WriteLine("Thank you for playing!");
