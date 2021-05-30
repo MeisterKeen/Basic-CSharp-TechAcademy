@@ -91,17 +91,18 @@ namespace LambdaDemo
 
 
             // Okay, cool, that foreach loop worked. So Now let's lambdafy it.
-
+            // we need someplace to put the Joes:
             List<Employee> AlsoJoes = new List<Employee>();
-
 
 
             //AlsoJoes.Add(employeeList[x => x.firstName == "Joe"]);
 
             //AlsoJoes.Add(x => employeeList[x] => x.firstName == "Joe");
 
-            AlsoJoes.Where(x => employeeList[x].firstName == "Joe") //
+            AlsoJoes = employeeList.Where(x => x.firstName == "Joe").ToList();
 
+            Console.WriteLine(AlsoJoes[0].firstName + " " + AlsoJoes[1].firstName);
+            Console.ReadLine();
             // Okay, so I want to add an item from employeeList...
                 // I want to grab the indexed item from employeeList IF the item's firstName value is "Joe"
                     // I think the lambda expression I wrote resolves to a boolean, not an int...
