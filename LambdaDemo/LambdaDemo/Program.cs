@@ -16,52 +16,52 @@ namespace LambdaDemo
 
             Employee jDobbs = new Employee()
             {
-                firstName = "Joe", lastName = "Dobbs", Id = 1001
+                firstName = "Joe", lastName = "Dobbs", Id = 1
             };
 
             Employee sGarett = new Employee()
             {
-                firstName = "Sue", lastName = "Garett", Id = 1002
+                firstName = "Sue", lastName = "Garett", Id = 2
             };
 
             Employee hSimpson = new Employee()
             {
-                firstName = "Homer", lastName = "Simpson", Id = 1003
+                firstName = "Homer", lastName = "Simpson", Id = 3
             };
 
             Employee cDavis = new Employee()
             {
-                firstName = "Chip", lastName = "Davis", Id = 1004
+                firstName = "Chip", lastName = "Davis", Id = 4
             };
 
             Employee aHoxha = new Employee()
             {
-                firstName = "Adil", lastName = "Hoxha", Id = 1005
+                firstName = "Adil", lastName = "Hoxha", Id = 5
             };
 
             Employee lLeonard = new Employee()
             {
-                firstName = "Lenny", lastName = "Leonard", Id = 1006
+                firstName = "Lenny", lastName = "Leonard", Id = 6
             };
 
             Employee wSmithers = new Employee()
             {
-                firstName = "Waylon", lastName = "Smithers", Id = 1007
+                firstName = "Waylon", lastName = "Smithers", Id = 7
             };
 
             Employee cCarlson = new Employee()
             {
-                firstName = "Carl", lastName = "Carlson", Id = 1008
+                firstName = "Carl", lastName = "Carlson", Id = 8
             };
 
             Employee rMarlow = new Employee()
             {
-                firstName = "Robert", lastName = "Marlow", Id = 1009
+                firstName = "Robert", lastName = "Marlow", Id = 9
             };
 
             Employee jBlow = new Employee()
             {
-                firstName = "Joe", lastName = "Blow", Id = 1010
+                firstName = "Joe", lastName = "Blow", Id = 10
             };
 
             List<Employee> employeeList = new List<Employee>()
@@ -91,41 +91,47 @@ namespace LambdaDemo
 
 
             // Okay, cool, that foreach loop worked. So Now let's lambdafy it.
-            // we need someplace to put the Joes:
+            // we need someplace to put the Joes, so we instantiate AlsoJoes:
             List<Employee> AlsoJoes = new List<Employee>();
 
 
-            //AlsoJoes.Add(employeeList[x => x.firstName == "Joe"]);
-
-            //AlsoJoes.Add(x => employeeList[x] => x.firstName == "Joe");
 
             AlsoJoes = employeeList.Where(x => x.firstName == "Joe").ToList();
 
-            Console.WriteLine(AlsoJoes[0].firstName + " " + AlsoJoes[1].firstName);
-            Console.ReadLine();
-            // Okay, so I want to add an item from employeeList...
-                // I want to grab the indexed item from employeeList IF the item's firstName value is "Joe"
-                    // I think the lambda expression I wrote resolves to a boolean, not an int...
-                        // How the hell do I get the integer I want?
-                             // Where or how or in what way do I create the equivalent of an "if" statement here?
+            // I am utterly disgusted with how long this took me.
+            // Not only was I confused about Lambda functions, but 
+            // See that little ToList() there at the end?
+            // Yah. THAT was my problem.
+            // So when I thought I had the lambda expression right, I STILL got an error, and I thought it was because of the expression!
+            // I just spent two days researching Lambda functions thinking my Goddamn brain was broken.
+
+
+
+
+            // I hate programming.
+
+
+
+
+            // I should be a truck driver.
+
+            // Or maybe a line cook?
+
+
+
+            // Maybe I should join a tugboat crew and move barges around a harbor.
+
+
+
+            List<Employee> MoreJoes = new List<Employee>();
+
+            MoreJoes = employeeList.Where(x => x.Id > 5).ToList();
             
-            
-            // ...and now I am very, very lost.
-            // Lambda functions SUCK. I do not like them, I do not understand them, their structure doesn't
-            // make sense to me. they were an awful problem back in JavaScript, and now they still don't make
-            // any damn sense.
 
-            // I need an undercut. A more basic reference that explains, in a step-by-step fashion, what each
-            // symbol and bit of syntax related to lambda functions actually does. I cannot READ a lambda func
-            // and get any idea what it does, how in hell do you expect me to write one?
+            // I could sell wicker furniture on Etsy! People do stuff like that, right?
 
-            // And why does every online resource start with the assumption that I know what the => fat arrow
-            // means? I have spent --hours-- on this!
 
-            // Doesn't anyone actually DEFINE THE DAMN TERMS somewhere?!?!?!
-
-            // Is it just me, or do others hang up on this, too? I HATED this topic back in JavaScript, I just
-            // copy-pasted them in when I had to and otherwise worked around them.
+            // It's okay, I don't need to work in IT, I'll buy a house when I'm 70.
 
         }
     }
