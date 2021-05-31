@@ -14,9 +14,9 @@ namespace ConstructorDemo
 
         public Employee(string fName, string lName, int id)
         {
-            fName = firstName;
-            lName = lastName;
-            id = EID;
+            firstName = fName;
+            lastName = lName;
+            EID = id;
         }
 
         public Employee(string fName, string lName): this(fName, lName, 0)
