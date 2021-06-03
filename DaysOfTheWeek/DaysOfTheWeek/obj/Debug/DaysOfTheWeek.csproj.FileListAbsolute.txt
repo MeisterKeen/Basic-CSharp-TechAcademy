@@ -1,7 +1,0 @@
-C:\Users\KeenMeister\Documents\GitHub\Basic-CSharp-TechAcademy\DaysOfTheWeek\DaysOfTheWeek\bin\Debug\DaysOfTheWeek.exe.config
-C:\Users\KeenMeister\Documents\GitHub\Basic-CSharp-TechAcademy\DaysOfTheWeek\DaysOfTheWeek\bin\Debug\DaysOfTheWeek.exe
-C:\Users\KeenMeister\Documents\GitHub\Basic-CSharp-TechAcademy\DaysOfTheWeek\DaysOfTheWeek\bin\Debug\DaysOfTheWeek.pdb
-C:\Users\KeenMeister\Documents\GitHub\Basic-CSharp-TechAcademy\DaysOfTheWeek\DaysOfTheWeek\obj\Debug\DaysOfTheWeek.csprojAssemblyReference.cache
-C:\Users\KeenMeister\Documents\GitHub\Basic-CSharp-TechAcademy\DaysOfTheWeek\DaysOfTheWeek\obj\Debug\DaysOfTheWeek.csproj.CoreCompileInputs.cache
-C:\Users\KeenMeister\Documents\GitHub\Basic-CSharp-TechAcademy\DaysOfTheWeek\DaysOfTheWeek\obj\Debug\DaysOfTheWeek.exe
-C:\Users\KeenMeister\Documents\GitHub\Basic-CSharp-TechAcademy\DaysOfTheWeek\DaysOfTheWeek\obj\Debug\DaysOfTheWeek.pdb

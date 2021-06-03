@@ -1,7 +1,0 @@
-C:\Users\KeenMeister\Documents\GitHub\Basic-CSharp-TechAcademy\StructDemo\StructDemo\bin\Debug\StructDemo.exe.config
-C:\Users\KeenMeister\Documents\GitHub\Basic-CSharp-TechAcademy\StructDemo\StructDemo\bin\Debug\StructDemo.exe
-C:\Users\KeenMeister\Documents\GitHub\Basic-CSharp-TechAcademy\StructDemo\StructDemo\bin\Debug\StructDemo.pdb
-C:\Users\KeenMeister\Documents\GitHub\Basic-CSharp-TechAcademy\StructDemo\StructDemo\obj\Debug\StructDemo.csprojAssemblyReference.cache
-C:\Users\KeenMeister\Documents\GitHub\Basic-CSharp-TechAcademy\StructDemo\StructDemo\obj\Debug\StructDemo.csproj.CoreCompileInputs.cache
-C:\Users\KeenMeister\Documents\GitHub\Basic-CSharp-TechAcademy\StructDemo\StructDemo\obj\Debug\StructDemo.exe
-C:\Users\KeenMeister\Documents\GitHub\Basic-CSharp-TechAcademy\StructDemo\StructDemo\obj\Debug\StructDemo.pdb

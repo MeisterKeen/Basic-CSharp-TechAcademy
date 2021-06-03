@@ -1,0 +1,7 @@
+C:\Users\KeenMeister\Documents\GitHub\Basic-CSharp-TechAcademy\TryCatchDemo\TryCatchDemo\bin\Debug\TryCatchDemo.exe.config
+C:\Users\KeenMeister\Documents\GitHub\Basic-CSharp-TechAcademy\TryCatchDemo\TryCatchDemo\bin\Debug\TryCatchDemo.exe
+C:\Users\KeenMeister\Documents\GitHub\Basic-CSharp-TechAcademy\TryCatchDemo\TryCatchDemo\bin\Debug\TryCatchDemo.pdb
+C:\Users\KeenMeister\Documents\GitHub\Basic-CSharp-TechAcademy\TryCatchDemo\TryCatchDemo\obj\Debug\TryCatchDemo.csprojAssemblyReference.cache
+C:\Users\KeenMeister\Documents\GitHub\Basic-CSharp-TechAcademy\TryCatchDemo\TryCatchDemo\obj\Debug\TryCatchDemo.csproj.CoreCompileInputs.cache
+C:\Users\KeenMeister\Documents\GitHub\Basic-CSharp-TechAcademy\TryCatchDemo\TryCatchDemo\obj\Debug\TryCatchDemo.exe
+C:\Users\KeenMeister\Documents\GitHub\Basic-CSharp-TechAcademy\TryCatchDemo\TryCatchDemo\obj\Debug\TryCatchDemo.pdb

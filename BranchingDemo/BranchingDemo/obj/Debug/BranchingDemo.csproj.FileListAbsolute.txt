@@ -1,7 +1,0 @@
-C:\Users\KeenMeister\Documents\GitHub\Basic-CSharp-TechAcademy\BranchingDemo\BranchingDemo\bin\Debug\BranchingDemo.exe.config
-C:\Users\KeenMeister\Documents\GitHub\Basic-CSharp-TechAcademy\BranchingDemo\BranchingDemo\bin\Debug\BranchingDemo.exe
-C:\Users\KeenMeister\Documents\GitHub\Basic-CSharp-TechAcademy\BranchingDemo\BranchingDemo\bin\Debug\BranchingDemo.pdb
-C:\Users\KeenMeister\Documents\GitHub\Basic-CSharp-TechAcademy\BranchingDemo\BranchingDemo\obj\Debug\BranchingDemo.csprojAssemblyReference.cache
-C:\Users\KeenMeister\Documents\GitHub\Basic-CSharp-TechAcademy\BranchingDemo\BranchingDemo\obj\Debug\BranchingDemo.csproj.CoreCompileInputs.cache
-C:\Users\KeenMeister\Documents\GitHub\Basic-CSharp-TechAcademy\BranchingDemo\BranchingDemo\obj\Debug\BranchingDemo.exe
-C:\Users\KeenMeister\Documents\GitHub\Basic-CSharp-TechAcademy\BranchingDemo\BranchingDemo\obj\Debug\BranchingDemo.pdb

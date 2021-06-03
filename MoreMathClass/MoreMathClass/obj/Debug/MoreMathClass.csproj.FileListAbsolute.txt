@@ -1,7 +1,0 @@
-C:\Users\KeenMeister\Documents\GitHub\Basic-CSharp-TechAcademy\MoreMathClass\MoreMathClass\bin\Debug\MoreMathClass.exe.config
-C:\Users\KeenMeister\Documents\GitHub\Basic-CSharp-TechAcademy\MoreMathClass\MoreMathClass\bin\Debug\MoreMathClass.exe
-C:\Users\KeenMeister\Documents\GitHub\Basic-CSharp-TechAcademy\MoreMathClass\MoreMathClass\bin\Debug\MoreMathClass.pdb
-C:\Users\KeenMeister\Documents\GitHub\Basic-CSharp-TechAcademy\MoreMathClass\MoreMathClass\obj\Debug\MoreMathClass.csprojAssemblyReference.cache
-C:\Users\KeenMeister\Documents\GitHub\Basic-CSharp-TechAcademy\MoreMathClass\MoreMathClass\obj\Debug\MoreMathClass.csproj.CoreCompileInputs.cache
-C:\Users\KeenMeister\Documents\GitHub\Basic-CSharp-TechAcademy\MoreMathClass\MoreMathClass\obj\Debug\MoreMathClass.exe
-C:\Users\KeenMeister\Documents\GitHub\Basic-CSharp-TechAcademy\MoreMathClass\MoreMathClass\obj\Debug\MoreMathClass.pdb

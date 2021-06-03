@@ -1,7 +1,0 @@
-C:\Users\KeenMeister\Documents\GitHub\Basic-CSharp-TechAcademy\Tomfoolery\Tomfoolery\bin\Debug\Tomfoolery.exe.config
-C:\Users\KeenMeister\Documents\GitHub\Basic-CSharp-TechAcademy\Tomfoolery\Tomfoolery\bin\Debug\Tomfoolery.exe
-C:\Users\KeenMeister\Documents\GitHub\Basic-CSharp-TechAcademy\Tomfoolery\Tomfoolery\bin\Debug\Tomfoolery.pdb
-C:\Users\KeenMeister\Documents\GitHub\Basic-CSharp-TechAcademy\Tomfoolery\Tomfoolery\obj\Debug\Tomfoolery.csprojAssemblyReference.cache
-C:\Users\KeenMeister\Documents\GitHub\Basic-CSharp-TechAcademy\Tomfoolery\Tomfoolery\obj\Debug\Tomfoolery.csproj.CoreCompileInputs.cache
-C:\Users\KeenMeister\Documents\GitHub\Basic-CSharp-TechAcademy\Tomfoolery\Tomfoolery\obj\Debug\Tomfoolery.exe
-C:\Users\KeenMeister\Documents\GitHub\Basic-CSharp-TechAcademy\Tomfoolery\Tomfoolery\obj\Debug\Tomfoolery.pdb

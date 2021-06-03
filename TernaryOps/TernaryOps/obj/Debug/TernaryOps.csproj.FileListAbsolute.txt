@@ -1,7 +1,0 @@
-C:\Users\KeenMeister\Documents\GitHub\Basic-CSharp-TechAcademy\TernaryOps\TernaryOps\bin\Debug\TernaryOps.exe.config
-C:\Users\KeenMeister\Documents\GitHub\Basic-CSharp-TechAcademy\TernaryOps\TernaryOps\bin\Debug\TernaryOps.exe
-C:\Users\KeenMeister\Documents\GitHub\Basic-CSharp-TechAcademy\TernaryOps\TernaryOps\bin\Debug\TernaryOps.pdb
-C:\Users\KeenMeister\Documents\GitHub\Basic-CSharp-TechAcademy\TernaryOps\TernaryOps\obj\Debug\TernaryOps.csprojAssemblyReference.cache
-C:\Users\KeenMeister\Documents\GitHub\Basic-CSharp-TechAcademy\TernaryOps\TernaryOps\obj\Debug\TernaryOps.csproj.CoreCompileInputs.cache
-C:\Users\KeenMeister\Documents\GitHub\Basic-CSharp-TechAcademy\TernaryOps\TernaryOps\obj\Debug\TernaryOps.exe
-C:\Users\KeenMeister\Documents\GitHub\Basic-CSharp-TechAcademy\TernaryOps\TernaryOps\obj\Debug\TernaryOps.pdb

@@ -1,7 +1,0 @@
-C:\Users\KeenMeister\Documents\GitHub\Basic-CSharp-TechAcademy\Iteration\Iteration\obj\Debug\Iteration.csprojAssemblyReference.cache
-C:\Users\KeenMeister\Documents\GitHub\Basic-CSharp-TechAcademy\Iteration\Iteration\obj\Debug\Iteration.csproj.CoreCompileInputs.cache
-C:\Users\KeenMeister\Documents\GitHub\Basic-CSharp-TechAcademy\Iteration\Iteration\bin\Debug\Iteration.exe.config
-C:\Users\KeenMeister\Documents\GitHub\Basic-CSharp-TechAcademy\Iteration\Iteration\bin\Debug\Iteration.exe
-C:\Users\KeenMeister\Documents\GitHub\Basic-CSharp-TechAcademy\Iteration\Iteration\bin\Debug\Iteration.pdb
-C:\Users\KeenMeister\Documents\GitHub\Basic-CSharp-TechAcademy\Iteration\Iteration\obj\Debug\Iteration.exe
-C:\Users\KeenMeister\Documents\GitHub\Basic-CSharp-TechAcademy\Iteration\Iteration\obj\Debug\Iteration.pdb

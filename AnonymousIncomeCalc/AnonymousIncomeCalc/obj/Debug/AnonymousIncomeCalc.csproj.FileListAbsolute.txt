@@ -1,7 +1,0 @@
-C:\Users\KeenMeister\Documents\GitHub\Basic-CSharp-TechAcademy\AnonymousIncomeCalc\AnonymousIncomeCalc\bin\Debug\AnonymousIncomeCalc.exe.config
-C:\Users\KeenMeister\Documents\GitHub\Basic-CSharp-TechAcademy\AnonymousIncomeCalc\AnonymousIncomeCalc\bin\Debug\AnonymousIncomeCalc.exe
-C:\Users\KeenMeister\Documents\GitHub\Basic-CSharp-TechAcademy\AnonymousIncomeCalc\AnonymousIncomeCalc\bin\Debug\AnonymousIncomeCalc.pdb
-C:\Users\KeenMeister\Documents\GitHub\Basic-CSharp-TechAcademy\AnonymousIncomeCalc\AnonymousIncomeCalc\obj\Debug\AnonymousIncomeCalc.csprojAssemblyReference.cache
-C:\Users\KeenMeister\Documents\GitHub\Basic-CSharp-TechAcademy\AnonymousIncomeCalc\AnonymousIncomeCalc\obj\Debug\AnonymousIncomeCalc.csproj.CoreCompileInputs.cache
-C:\Users\KeenMeister\Documents\GitHub\Basic-CSharp-TechAcademy\AnonymousIncomeCalc\AnonymousIncomeCalc\obj\Debug\AnonymousIncomeCalc.exe
-C:\Users\KeenMeister\Documents\GitHub\Basic-CSharp-TechAcademy\AnonymousIncomeCalc\AnonymousIncomeCalc\obj\Debug\AnonymousIncomeCalc.pdb

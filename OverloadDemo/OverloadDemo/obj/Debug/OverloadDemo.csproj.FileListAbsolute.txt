@@ -1,7 +1,0 @@
-C:\Users\KeenMeister\Documents\GitHub\Basic-CSharp-TechAcademy\OverloadDemo\OverloadDemo\bin\Debug\OverloadDemo.exe.config
-C:\Users\KeenMeister\Documents\GitHub\Basic-CSharp-TechAcademy\OverloadDemo\OverloadDemo\bin\Debug\OverloadDemo.exe
-C:\Users\KeenMeister\Documents\GitHub\Basic-CSharp-TechAcademy\OverloadDemo\OverloadDemo\bin\Debug\OverloadDemo.pdb
-C:\Users\KeenMeister\Documents\GitHub\Basic-CSharp-TechAcademy\OverloadDemo\OverloadDemo\obj\Debug\OverloadDemo.csprojAssemblyReference.cache
-C:\Users\KeenMeister\Documents\GitHub\Basic-CSharp-TechAcademy\OverloadDemo\OverloadDemo\obj\Debug\OverloadDemo.csproj.CoreCompileInputs.cache
-C:\Users\KeenMeister\Documents\GitHub\Basic-CSharp-TechAcademy\OverloadDemo\OverloadDemo\obj\Debug\OverloadDemo.exe
-C:\Users\KeenMeister\Documents\GitHub\Basic-CSharp-TechAcademy\OverloadDemo\OverloadDemo\obj\Debug\OverloadDemo.pdb

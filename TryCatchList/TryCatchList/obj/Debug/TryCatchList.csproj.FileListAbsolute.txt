@@ -1,7 +1,0 @@
-C:\Users\KeenMeister\Documents\GitHub\Basic-CSharp-TechAcademy\TryCatchList\TryCatchList\bin\Debug\TryCatchList.exe.config
-C:\Users\KeenMeister\Documents\GitHub\Basic-CSharp-TechAcademy\TryCatchList\TryCatchList\bin\Debug\TryCatchList.exe
-C:\Users\KeenMeister\Documents\GitHub\Basic-CSharp-TechAcademy\TryCatchList\TryCatchList\bin\Debug\TryCatchList.pdb
-C:\Users\KeenMeister\Documents\GitHub\Basic-CSharp-TechAcademy\TryCatchList\TryCatchList\obj\Debug\TryCatchList.csprojAssemblyReference.cache
-C:\Users\KeenMeister\Documents\GitHub\Basic-CSharp-TechAcademy\TryCatchList\TryCatchList\obj\Debug\TryCatchList.csproj.CoreCompileInputs.cache
-C:\Users\KeenMeister\Documents\GitHub\Basic-CSharp-TechAcademy\TryCatchList\TryCatchList\obj\Debug\TryCatchList.exe
-C:\Users\KeenMeister\Documents\GitHub\Basic-CSharp-TechAcademy\TryCatchList\TryCatchList\obj\Debug\TryCatchList.pdb

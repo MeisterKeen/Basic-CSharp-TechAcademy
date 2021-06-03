@@ -1,0 +1,6 @@
+C:\Users\KeenMeister\Documents\GitHub\Basic-CSharp-TechAcademy\StreamWriterDemo\StreamWriterDemo\bin\Debug\StreamWriterDemo.exe.config
+C:\Users\KeenMeister\Documents\GitHub\Basic-CSharp-TechAcademy\StreamWriterDemo\StreamWriterDemo\bin\Debug\StreamWriterDemo.exe
+C:\Users\KeenMeister\Documents\GitHub\Basic-CSharp-TechAcademy\StreamWriterDemo\StreamWriterDemo\bin\Debug\StreamWriterDemo.pdb
+C:\Users\KeenMeister\Documents\GitHub\Basic-CSharp-TechAcademy\StreamWriterDemo\StreamWriterDemo\obj\Debug\StreamWriterDemo.csproj.CoreCompileInputs.cache
+C:\Users\KeenMeister\Documents\GitHub\Basic-CSharp-TechAcademy\StreamWriterDemo\StreamWriterDemo\obj\Debug\StreamWriterDemo.exe
+C:\Users\KeenMeister\Documents\GitHub\Basic-CSharp-TechAcademy\StreamWriterDemo\StreamWriterDemo\obj\Debug\StreamWriterDemo.pdb

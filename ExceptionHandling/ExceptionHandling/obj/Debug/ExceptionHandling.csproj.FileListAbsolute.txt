@@ -1,6 +1,0 @@
-C:\Users\KeenMeister\Documents\GitHub\Basic-CSharp-TechAcademy\ExceptionHandling\ExceptionHandling\obj\Debug\ExceptionHandling.csproj.CoreCompileInputs.cache
-C:\Users\KeenMeister\Documents\GitHub\Basic-CSharp-TechAcademy\ExceptionHandling\ExceptionHandling\bin\Debug\ExceptionHandling.exe.config
-C:\Users\KeenMeister\Documents\GitHub\Basic-CSharp-TechAcademy\ExceptionHandling\ExceptionHandling\bin\Debug\ExceptionHandling.exe
-C:\Users\KeenMeister\Documents\GitHub\Basic-CSharp-TechAcademy\ExceptionHandling\ExceptionHandling\bin\Debug\ExceptionHandling.pdb
-C:\Users\KeenMeister\Documents\GitHub\Basic-CSharp-TechAcademy\ExceptionHandling\ExceptionHandling\obj\Debug\ExceptionHandling.exe
-C:\Users\KeenMeister\Documents\GitHub\Basic-CSharp-TechAcademy\ExceptionHandling\ExceptionHandling\obj\Debug\ExceptionHandling.pdb

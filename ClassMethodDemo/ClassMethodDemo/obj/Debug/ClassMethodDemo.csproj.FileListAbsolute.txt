@@ -1,7 +1,0 @@
-C:\Users\KeenMeister\Documents\GitHub\Basic-CSharp-TechAcademy\ClassMethodDemo\ClassMethodDemo\bin\Debug\ClassMethodDemo.exe.config
-C:\Users\KeenMeister\Documents\GitHub\Basic-CSharp-TechAcademy\ClassMethodDemo\ClassMethodDemo\bin\Debug\ClassMethodDemo.exe
-C:\Users\KeenMeister\Documents\GitHub\Basic-CSharp-TechAcademy\ClassMethodDemo\ClassMethodDemo\bin\Debug\ClassMethodDemo.pdb
-C:\Users\KeenMeister\Documents\GitHub\Basic-CSharp-TechAcademy\ClassMethodDemo\ClassMethodDemo\obj\Debug\ClassMethodDemo.csprojAssemblyReference.cache
-C:\Users\KeenMeister\Documents\GitHub\Basic-CSharp-TechAcademy\ClassMethodDemo\ClassMethodDemo\obj\Debug\ClassMethodDemo.csproj.CoreCompileInputs.cache
-C:\Users\KeenMeister\Documents\GitHub\Basic-CSharp-TechAcademy\ClassMethodDemo\ClassMethodDemo\obj\Debug\ClassMethodDemo.exe
-C:\Users\KeenMeister\Documents\GitHub\Basic-CSharp-TechAcademy\ClassMethodDemo\ClassMethodDemo\obj\Debug\ClassMethodDemo.pdb

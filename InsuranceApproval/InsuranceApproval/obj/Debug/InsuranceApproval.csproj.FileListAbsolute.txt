@@ -1,7 +1,0 @@
-C:\Users\KeenMeister\Documents\GitHub\Basic-CSharp-TechAcademy\InsuranceApproval\InsuranceApproval\bin\Debug\InsuranceApproval.exe.config
-C:\Users\KeenMeister\Documents\GitHub\Basic-CSharp-TechAcademy\InsuranceApproval\InsuranceApproval\bin\Debug\InsuranceApproval.exe
-C:\Users\KeenMeister\Documents\GitHub\Basic-CSharp-TechAcademy\InsuranceApproval\InsuranceApproval\bin\Debug\InsuranceApproval.pdb
-C:\Users\KeenMeister\Documents\GitHub\Basic-CSharp-TechAcademy\InsuranceApproval\InsuranceApproval\obj\Debug\InsuranceApproval.csprojAssemblyReference.cache
-C:\Users\KeenMeister\Documents\GitHub\Basic-CSharp-TechAcademy\InsuranceApproval\InsuranceApproval\obj\Debug\InsuranceApproval.csproj.CoreCompileInputs.cache
-C:\Users\KeenMeister\Documents\GitHub\Basic-CSharp-TechAcademy\InsuranceApproval\InsuranceApproval\obj\Debug\InsuranceApproval.exe
-C:\Users\KeenMeister\Documents\GitHub\Basic-CSharp-TechAcademy\InsuranceApproval\InsuranceApproval\obj\Debug\InsuranceApproval.pdb

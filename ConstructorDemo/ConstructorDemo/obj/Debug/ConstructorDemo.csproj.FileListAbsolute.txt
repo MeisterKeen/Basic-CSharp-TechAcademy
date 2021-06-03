@@ -1,7 +1,0 @@
-C:\Users\KeenMeister\Documents\GitHub\Basic-CSharp-TechAcademy\ConstructorDemo\ConstructorDemo\bin\Debug\ConstructorDemo.exe.config
-C:\Users\KeenMeister\Documents\GitHub\Basic-CSharp-TechAcademy\ConstructorDemo\ConstructorDemo\bin\Debug\ConstructorDemo.exe
-C:\Users\KeenMeister\Documents\GitHub\Basic-CSharp-TechAcademy\ConstructorDemo\ConstructorDemo\bin\Debug\ConstructorDemo.pdb
-C:\Users\KeenMeister\Documents\GitHub\Basic-CSharp-TechAcademy\ConstructorDemo\ConstructorDemo\obj\Debug\ConstructorDemo.csprojAssemblyReference.cache
-C:\Users\KeenMeister\Documents\GitHub\Basic-CSharp-TechAcademy\ConstructorDemo\ConstructorDemo\obj\Debug\ConstructorDemo.csproj.CoreCompileInputs.cache
-C:\Users\KeenMeister\Documents\GitHub\Basic-CSharp-TechAcademy\ConstructorDemo\ConstructorDemo\obj\Debug\ConstructorDemo.exe
-C:\Users\KeenMeister\Documents\GitHub\Basic-CSharp-TechAcademy\ConstructorDemo\ConstructorDemo\obj\Debug\ConstructorDemo.pdb

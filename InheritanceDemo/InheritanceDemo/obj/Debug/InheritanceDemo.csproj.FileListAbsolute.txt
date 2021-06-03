@@ -1,6 +1,0 @@
-C:\Users\KeenMeister\Documents\GitHub\Basic-CSharp-TechAcademy\InheritanceDemo\InheritanceDemo\bin\Debug\InheritanceDemo.exe.config
-C:\Users\KeenMeister\Documents\GitHub\Basic-CSharp-TechAcademy\InheritanceDemo\InheritanceDemo\bin\Debug\InheritanceDemo.exe
-C:\Users\KeenMeister\Documents\GitHub\Basic-CSharp-TechAcademy\InheritanceDemo\InheritanceDemo\bin\Debug\InheritanceDemo.pdb
-C:\Users\KeenMeister\Documents\GitHub\Basic-CSharp-TechAcademy\InheritanceDemo\InheritanceDemo\obj\Debug\InheritanceDemo.csproj.CoreCompileInputs.cache
-C:\Users\KeenMeister\Documents\GitHub\Basic-CSharp-TechAcademy\InheritanceDemo\InheritanceDemo\obj\Debug\InheritanceDemo.exe
-C:\Users\KeenMeister\Documents\GitHub\Basic-CSharp-TechAcademy\InheritanceDemo\InheritanceDemo\obj\Debug\InheritanceDemo.pdb
