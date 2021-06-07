@@ -10,7 +10,7 @@ In this folder you'll find a long list of console applications and basic web app
 
 This is an MVC application that takes in a list of inputs from a user and outputs a car insurance quote. It uses a database-first EntityFramework implementation to store user inputs and give back curated lists of records.
 
-## Twenty One
+## [Twenty One](https://github.com/MeisterKeen/Basic-CSharp-TechAcademy/tree/main/Guided%20Projects/TwentyOne)
 
 This is a game of blackjack! This was a guided project where I built a full game of twenty-one, complete with user balance, bets and a Vegas-compliant dealer.
 
